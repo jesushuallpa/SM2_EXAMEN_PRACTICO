@@ -13,16 +13,25 @@ Este proyecto corresponde al examen práctico de la unidad II. El objetivo es im
 2. **Consultar recomendaciones a través del chatbot** (pbi010):
    - El chatbot sugiere productos a los usuarios en función de sus preferencias y el historial de navegación.
    - Implementa un sistema de interacción que permite al usuario obtener recomendaciones personalizadas.
-
-## Capturas de Pantalla
-
-![Captura de la pantalla de gestionar productos](imagenes_exu2/1.png)
-![Captura de la pantalla del chatbot](.png)
 ## Implementacion
 - una vez clonado el proyecto debe tener flutter instalado lo puede verificar en si powershell comando flutter doctor.
 - la version de sdk: ^3.7.2 para poder ejecutar el proyecto si no tienen la version reciente ejecutar (flutter upgrade
+
 ).
-- 
+## Capturas de Pantalla
+
+![Captura de la pantalla de como debe cambiar de pbi](imagenes_exu2/1.png)
+![Captura de la pantalla de como debe cambiar de pbi](imagenes_exu2/2.png)
+![Pantalla del producto PBI002 - Parte 1](imagenes_exu2/pbi002_1.png)
+![Pantalla del producto PBI002 - Parte 2](imagenes_exu2/pbi002_2.png)
+![Pantalla del producto PBI002 - Parte 3](imagenes_exu2/pbi002_3.png)
+![Pantalla del producto PBI002 - Parte 4](imagenes_exu2/pbi002_4.png)
+![Pantalla del producto PBI002 - Parte 5](imagenes_exu2/pbi002_5.png)
+![Pantalla del producto PBI002 - Parte 6](imagenes_exu2/pbi002_6.png)
+![Pantalla del producto PBI002 - Parte 7](imagenes_exu2/pbi002_7.png)
+![Pantalla del producto PBI010 - Parte 1](imagenes_exu2/pbi010_1.png)
+![Pantalla del producto PBI010 - Parte 2](imagenes_exu2/pbi010_2.png)
+
 ## Enlaces y Referencias
 
 - **Librerías utilizadas**:
