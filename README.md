@@ -29,4 +29,4 @@ Este proyecto corresponde al examen práctico de la unidad II. El objetivo es im
 
 ## Enlace al repositorio
 
-[SM2_EXAMEN_PRACTICO en GitHub]()
+[SM2_EXAMEN_PRACTICO en GitHub](https://github.com/jesushuallpa/SM2_EXAMEN_PRACTICO)
