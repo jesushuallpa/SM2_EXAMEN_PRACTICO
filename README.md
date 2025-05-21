@@ -18,10 +18,13 @@ Este proyecto corresponde al examen práctico de la unidad II. El objetivo es im
 - la version de sdk: ^3.7.2 para poder ejecutar el proyecto si no tienen la version reciente ejecutar (flutter upgrade
 
 ).
+- luego debe ejecutar "flutter pub get" y listo 
 ## Capturas de Pantalla
-
+en la primera captura se explica que para cambiar de pbi debe selecionar el icono de reiniciar 
 ![Captura de la pantalla de como debe cambiar de pbi](imagenes_exu2/1.png)
+luego le aparecera esta opcion para camiar de pbi seleciona la que va a revisar
 ![Captura de la pantalla de como debe cambiar de pbi](imagenes_exu2/2.png)
+funciones de pbi002 gestionar productos 
 ![Pantalla del producto PBI002 - Parte 1](imagenes_exu2/pbi002_1.png)
 ![Pantalla del producto PBI002 - Parte 2](imagenes_exu2/pbi002_2.png)
 ![Pantalla del producto PBI002 - Parte 3](imagenes_exu2/pbi002_3.png)
@@ -29,6 +32,7 @@ Este proyecto corresponde al examen práctico de la unidad II. El objetivo es im
 ![Pantalla del producto PBI002 - Parte 5](imagenes_exu2/pbi002_5.png)
 ![Pantalla del producto PBI002 - Parte 6](imagenes_exu2/pbi002_6.png)
 ![Pantalla del producto PBI002 - Parte 7](imagenes_exu2/pbi002_7.png)
+funciones de pbi010 chat bot de recomendaciones
 ![Pantalla del producto PBI010 - Parte 1](imagenes_exu2/pbi010_1.png)
 ![Pantalla del producto PBI010 - Parte 2](imagenes_exu2/pbi010_2.png)
 
