@@ -18,7 +18,11 @@ Este proyecto corresponde al examen práctico de la unidad II. El objetivo es im
 
 ![Captura de la pantalla de gestionar productos](.png)
 ![Captura de la pantalla del chatbot](.png)
-
+## Implementacion
+- una vez clonado el proyecto debe tener flutter instalado lo puede verificar en si powershell comando flutter doctor.
+- la version de sdk: ^3.7.2 para poder ejecutar el proyecto si no tienen la version reciente ejecutar (flutter upgrade
+).
+- 
 ## Enlaces y Referencias
 
 - **Librerías utilizadas**:
