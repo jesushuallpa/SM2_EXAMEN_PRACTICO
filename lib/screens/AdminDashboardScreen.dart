@@ -40,7 +40,8 @@ class AdminDashboardScreen extends StatelessWidget {
                 AuthService.logout(); // 🔐 Cierra sesión eliminando el ID
                 Navigator.of(
                   context,
-                ).pushNamedAndRemoveUntil('/login', (route) => false);
+                ).pushNamedAndRemoveUntil('/', (route) => false);
+
               }
             },
           ),
