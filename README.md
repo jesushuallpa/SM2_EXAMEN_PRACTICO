@@ -1,5 +1,8 @@
 # SM2_EXAMEN_PRACTICO
 
+# nombre : jesus antonio huallpa maron
+# codigo : 2021071085
+
 ## Descripción del Proyecto
 
 Este proyecto corresponde al examen práctico de la unidad II. El objetivo es implementar dos funcionalidades del **Product Backlog** que se describen a continuación:
@@ -47,39 +50,22 @@ Este proyecto corresponde al examen práctico de la unidad II. El objetivo es im
 ## Enlaces y Referencias
 
 - **Librerías utilizadas**:
-# Iconos estilo iOS
-  cupertino_icons: ^1.0.8
 
-  # Selección de imágenes desde la galería o cámara
-  image_picker: ^1.1.2
+  - [cupertino_icons ^1.0.8](https://pub.dev/packages/cupertino_icons) – Iconos estilo iOS.
+  - [image_picker ^1.1.2](https://pub.dev/packages/image_picker) – Selección de imágenes desde la galería o cámara.
+  - [firebase_storage 11.6.5](https://pub.dev/packages/firebase_storage) – Almacenamiento en Firebase.
+  - [http ^0.13.6](https://pub.dev/packages/http) – Realizar solicitudes HTTP.
+  - [cloud_firestore ^4.8.3](https://pub.dev/packages/cloud_firestore) – Base de datos en tiempo real de Firebase.
+  - [firebase_core ^2.31.0](https://pub.dev/packages/firebase_core) – Núcleo de Firebase necesario para inicializar los servicios.
+  - [dialogflow_flutter ^1.0.0](https://pub.dev/packages/dialogflow_flutter) – Integración con Dialogflow para chatbots.
+  - [protobuf ^2.1.0](https://pub.dev/packages/protobuf) – Soporte para mensajes Protocol Buffers.
+  - [uuid 3.0.7](https://pub.dev/packages/uuid) – Generador de UUIDs.
+  - [flutter_dotenv ^5.2.1](https://pub.dev/packages/flutter_dotenv) – Manejo de variables de entorno desde un archivo `.env`.
 
-  # Almacenamiento en Firebase
-  firebase_storage: 11.6.5
-
-  # Realizar solicitudes HTTP
-  http: ^0.13.6
-
-  # Base de datos en tiempo real de Firebase
-  cloud_firestore: ^4.8.3
-
-  # Núcleo de Firebase necesario para usar otros paquetes de Firebase
-  firebase_core: ^2.31.0
-
-  # Integración con Dialogflow para chatbots
-  dialogflow_flutter: ^1.0.0
-
-  # Soporte para mensajes protobuf (usado en varios servicios de Google)
-  protobuf: ^2.1.0
-
-  # Generador de UUIDs
-  uuid: 3.0.7
-
-  # Para manejar variables de entorno desde un archivo `.env`
-  flutter_dotenv: ^5.2.1
-  
 - **API de productos**:
-   uso la api de gemini ia flash 2.0 para el chatbot
 
+  - [Gemini Flash 2.0 (Google AI)](https://ai.google.dev/models/gemini) – API de lenguaje natural usada para el chatbot del sistema.
+  
 ## Enlace al repositorio
 
 [SM2_EXAMEN_PRACTICO en GitHub](https://github.com/jesushuallpa/SM2_EXAMEN_PRACTICO)
